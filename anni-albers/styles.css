@@ -49,8 +49,8 @@ p.callout {
 /* inherit the baseline code, above, and add to it */
 #secondLayout main {
     display: grid;
-    grid-template-columns: repeat (8, auto);
-    grid-template-rows: 100vh repeat(8, auto);
+    grid-template-columns: repeat (30, auto);
+    grid-template-rows: 100vh repeat(30, auto);
     grid-template-areas:
     'title title title title title title title title'
     '. . . . p1 p1 . .'
