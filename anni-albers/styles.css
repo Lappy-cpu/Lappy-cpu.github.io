@@ -105,6 +105,18 @@ p.
     padding-left: 0;
 }
 
+#secondLayout #callout2 {
+    padding-left: 0;
+}
+
+#secondLayout #callout3 {
+    padding-left: 0;
+}
+
+#secondLayout #callout4 {
+    padding-left: 0;
+}
+
 #secondLayout section h1 {
     padding-top: 70vh;
 }
