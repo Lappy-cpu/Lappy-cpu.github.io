@@ -52,11 +52,11 @@ p.
 #secondLayout main {
     display: grid;
     grid-template-columns: repeat (calc(100% / 6));
-    grid-template-rows: 100vh repeat(15, auto);
+    grid-template-rows: 100vh repeat(14, auto);
     grid-template-areas:
     'title title title title title title'
-    '. p1 p1 . . .'
-    'p2 p2 . . . .'
+    '. . p1 p1 . .'
+    '. p2 p2 . . .'
     '. p3 p3 . c1 c1'
     '. . p4 p4 . .'
     '. . . . p5 p5'
@@ -66,10 +66,8 @@ p.
     '. p9 p9 . . .'
     '. . p10 p10 . .'
     '. . . . p11 p11'
-    '. . . p12 p12 .'
-    '. . p13 p13 . .'
-    '. p14 p14 . . .'
-    'p15 p15 . . . .';
+    'h2 h2 . . . .'
+    'p12 p12 . . . .'
 }
 
 /* assigning grid area names to DOM elements */
