@@ -63,7 +63,7 @@ p.
     '. . p6 p6 . .'
     '. p7 p7 . c3 c3'
     'p8 p8 . . . .'
-    '. p9 p9 . c4 c4'
+    '. p9 p9 . . .'
     '. . p10 p10 . .'
     '. . . . p11 p11'
     'h2 h2 . . . .'
@@ -93,8 +93,8 @@ p.
 #secondLayout #para15 {grid-area: p15;}
 #secondLayout #callout1 {grid-area: c1;}
 #secondLayout #callout2 {grid-area: c2;}
-#secondLayout #callout3 {grid-area: c3}
-#secondLayout #callout4 {grid-area: c4}
+#secondLayout #callout3 {grid-area: c3;}
+#secondLayout #callout4 {grid-area: c4;}
 
 /* override the baseline p style from above */
 #secondLayout p {
