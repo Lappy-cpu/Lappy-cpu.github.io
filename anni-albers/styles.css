@@ -2,6 +2,7 @@
 
 /* By default, let's lay out the first index.html file */
 
+
 main {
     width: and 80%;
     max-width: 1100px;
@@ -45,6 +46,7 @@ p.callout {
 /* ************************************************** */
 /* CSS for index2                                     */
 /* ************************************************** */
+/* version 1 */
 
 /* inherit the baseline code, above, and add to it */
 #secondLayout main {
@@ -53,7 +55,7 @@ p.callout {
     grid-template-rows: 100vh repeat(7, auto);
     grid-template-areas:
     'title title title title title title title title'
-    '. . . . . p1 p1 .'
+    '. . . p1 p1 .'
     '. . . p2 p2 . . .'
     'p3 p3 . . . c1 c1 .'
     '. p4 p4 . . . . .'
