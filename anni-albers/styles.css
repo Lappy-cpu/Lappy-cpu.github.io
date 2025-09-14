@@ -77,24 +77,27 @@ p.callout {
 }
 
 #secondLayout #row1 {grid-area: p1;}
-#secondLayout #para2 {grid-area: p2;}
-#secondLayout #para3 {grid-area: p3;}
-#secondLayout #para4 {grid-area: p4;}
-#secondLayout #para5 {grid-area: p5;}
-#secondLayout #para6 {grid-area: p6;}
-#secondLayout #para7 {grid-area: p7;}
-#secondLayout #para8 {grid-area: p8;}
-#secondLayout #para9 {grid-area: p9;}
-#secondLayout #para10 {grid-area: p10;}
-#secondLayout #para11 {grid-area: p11;}
-#secondLayout #para12 {grid-area: p12;}
-#secondLayout #para13 {grid-area: p13;}
-#secondLayout #para14 {grid-area: p14;}
-#secondLayout #para15 {grid-area: p15;}
+#secondLayout #row22 {grid-area: p2;}
+#secondLayout #row3 {grid-area: p3;}
+#secondLayout #row4 {grid-area: p4;}
+#secondLayout #row5 {grid-area: p5;}
+#secondLayout #row6 {grid-area: p6;}
+#secondLayout #row7 {grid-area: p7;}
+#secondLayout #row8 {grid-area: p8;}
+#secondLayout #row9 {grid-area: p9;}
+#secondLayout #row10 {grid-area: p10;}
+#secondLayout #row11 {grid-area: p11;}
+#secondLayout #row12 {grid-area: p12;}
+#secondLayout #row13 {grid-area: p13;}
+#secondLayout #row14 {grid-area: p14;}
+#secondLayout #row15 {grid-area: p15;}
+#secondLayout #row16 {grid-area: p14;}
+#secondLayout #row17 {grid-area: p15;}
 #secondLayout #callout1 {grid-area: c1;}
 #secondLayout #callout2 {grid-area: c2;}
 #secondLayout #callout3 {grid-area: c3;}
 #secondLayout #callout4 {grid-area: c4;}
+
 
 /* override the baseline p style from above */
 #secondLayout p {
