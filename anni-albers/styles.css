@@ -52,22 +52,18 @@ p.callout {
 #secondLayout main {
     display: grid;
     grid-template-columns: repeat(6, auto);
-    grid-template-rows: 100vh repeat(22, auto);
+    grid-template-rows: 100vh repeat(18, auto);
     grid-template-areas:
     'title title title title title title'
     'p1 p1 . . . .'
     '. p2 p2 . . .'
-    '. . p3 p3 . .'
-    '. . . . c1 c1'
+    '. . . p3 p3 .'
     '. p4 p4 . . .'
-    '. . c2 c2 . .'
     '. . . . p5 p5'
     '. . . p6 p6 .'
     '. p7 p7 . . .'
-    'c3 c3 . . . .'
     '. . p8 p8 . .'
     '. . . . p9 p9'
-    '. c4 c4 . . .'
     '. . . p10 p10 .'
     '. . p11 p11 . .'
     'p12 p12 . . . .'
@@ -85,7 +81,7 @@ p.callout {
 }
 
 #secondLayout #row1 {grid-area: p1;}
-#secondLayout #row22 {grid-area: p2;}
+#secondLayout #row2 {grid-area: p2;}
 #secondLayout #row3 {grid-area: p3;}
 #secondLayout #row4 {grid-area: p4;}
 #secondLayout #row5 {grid-area: p5;}
@@ -109,7 +105,7 @@ p.callout {
 
 /* override the baseline p style from above */
 #secondLayout p {
-    width: 200%;
+    width: 100%;
 }
 
 #secondLayout #callout1 {
@@ -120,7 +116,15 @@ p.callout {
     padding-top: 70vh;
 }
 
-#SecondLayout #Low16 {
+#secondLayout #Low16 {
     font-size: 3rem;
     font-style: italic;
+}
+
+#secondLayout #Low2 {
+    width: 200%;
+}
+
+#secondLayout #Low4 {
+    width: 200%;
 }
