@@ -48,11 +48,11 @@ p.callout {
 }
 
 #row15 h2 {
-    margin-left: auto;
+    margin-left: calc(100% * 3 / 6);
 }
 
 #row16 p {
-    margin-left: auto;
+     margin-left: calc(100% * 3 / 6);
 }
 
 /* ************************************************** */
