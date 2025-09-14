@@ -75,7 +75,7 @@ p.callout {
     '. . p14 p14 . .'
     '. p15 p15 . . .'
     'p16 p16 . . . .'
-    '. . p17 p17 . .';
+    'p17 p17 . . . .';
 }
 
 /* assigning grid area names to DOM elements */
@@ -109,7 +109,7 @@ p.callout {
 
 /* override the baseline p style from above */
 #secondLayout p {
-    width: 100%;
+    width: 200%;
 }
 
 #secondLayout #callout1 {
@@ -120,3 +120,7 @@ p.callout {
     padding-top: 70vh;
 }
 
+#SecondLayout #Low16 {
+    font-size: 3rem;
+    font-style: italic;
+}
