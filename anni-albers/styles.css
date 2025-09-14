@@ -52,7 +52,7 @@ p.callout {
 #secondLayout main {
     display: grid;
     grid-template-columns: repeat(6, auto);
-    grid-template-rows: 100vh repeat(17, auto);
+    grid-template-rows: 100vh repeat(22, auto);
     grid-template-areas:
     'title title title title title title'
     'p1 p1 . . . .'
