@@ -58,16 +58,24 @@ p.callout {
     'p1 p1 . . . .'
     '. p2 p2 . . .'
     '. . p3 p3 c1 c1'
+    '. . . . c1 c1'
     'p4 p4 . . . .'
     '. c2 c2 . p5 p5'
+    '. . . . p5 p5'
     '. . . p6 p6 .'
-    'p7 p7 . . c3 c3'
+    'p7 p7 . . . .'
+    '. . . . c3 c3'
     '. . . p8 p8 .'
-    '. c4 c4 . p9 p9'
+    '. . . . p9 p9'
+    '. c4 c4 . . .'
     '. . . p10 p10 .'
     '. . p11 p11 . .'
-    'h2 h2 . . . .'
-    '. . . . p12 p12';
+    'p12 p12 . . . .'
+    '. . . . p13 p13 '
+    '. . . p14 p14 .'
+    '. . p15 p15 . .'
+    'p16 p16 . . . .'
+    '. . p17 p17 . .';
 }
 
 /* assigning grid area names to DOM elements */
@@ -91,8 +99,8 @@ p.callout {
 #secondLayout #row13 {grid-area: p13;}
 #secondLayout #row14 {grid-area: p14;}
 #secondLayout #row15 {grid-area: p15;}
-#secondLayout #row16 {grid-area: p14;}
-#secondLayout #row17 {grid-area: p15;}
+#secondLayout #row16 {grid-area: p16;}
+#secondLayout #row17 {grid-area: p17;}
 #secondLayout #callout1 {grid-area: c1;}
 #secondLayout #callout2 {grid-area: c2;}
 #secondLayout #callout3 {grid-area: c3;}
@@ -111,3 +119,4 @@ p.callout {
 #secondLayout section h1 {
     padding-top: 70vh;
 }
+
