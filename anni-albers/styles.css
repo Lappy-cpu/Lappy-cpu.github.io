@@ -67,7 +67,7 @@ p.callout {
     '. . . p10 p10 .'
     '. . p11 p11 . .'
     'h2 h2 . . . .'
-    '. . p12 p12 . .'
+    '. . p12 p12 . .';
 }
 
 /* assigning grid area names to DOM elements */
