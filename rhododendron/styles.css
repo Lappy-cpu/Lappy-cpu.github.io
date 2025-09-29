@@ -32,8 +32,6 @@ header {
     width: calc(100vw - 2em)
 }
 
-/* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
-
 #rhodieTitle p {
     position: absolute;
     top: 0;
@@ -41,6 +39,8 @@ header {
     color: white;
     font-size: 1em
 }
+
+/* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
 @media screen and (orientation: landscape) {
     #rhodiePiture {
