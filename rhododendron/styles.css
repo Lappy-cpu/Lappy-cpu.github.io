@@ -34,7 +34,7 @@ header {
 #rhodieTitle p {
     position: absolute;
     top: 0;
-    right: 0;
+    left: 1em;
     color: white;
     font-size: 1em
 }
