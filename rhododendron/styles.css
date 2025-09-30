@@ -68,39 +68,42 @@ header {
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
 @media screen and (orientation: landscape) {
-    
+
     #rhodiePiture {
         width: 50vw;
     }
+
     #rhodieTitle {
         width: 45vw;
     }
+
     #rhodieTitle h1 {
         width: 50vw;
         left: 53vw;
         background-color: darksalmon;
 
     }
+
     #rhodieP1 {
         width: 50vw;
         left: 52vw;
     }
 
-     #rhodieP2 {
+    #rhodieP2 {
         width: 50vw;
         left: 52vw;
     }
 
-     #rhodieP3 {
+    #rhodieP3 {
         width: 50vw;
         left: 52vw;
     }
 
-     #rhodieP4 {
+    #rhodieP4 {
         width: 50vw;
         left: 52vw;
     }
-    
+
 }
 
 /* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
