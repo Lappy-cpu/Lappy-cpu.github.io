@@ -7,6 +7,7 @@
 body {
     padding: 0;
     margin: 0;
+    background-color: darksalmon;
 }
 
 header {
@@ -35,7 +36,7 @@ header {
 #rhodieP1 {
     position: absolute;
     top: 0;
-    left: 1em;
+    left: 0.7em;
     color: white;
     font-size: 1em
 }
@@ -43,7 +44,7 @@ header {
 #rhodieP2 {
     position: absolute;
     top: 5.5em;
-    left: 1em;
+    left: .7em;
     color: white;
     font-size: 1em
 }
@@ -51,7 +52,7 @@ header {
 #rhodieP3 {
     position: absolute;
     top: 11em;
-    left: 1em;
+    left: .7em;
     color: white;
     font-size: 1em
 }
@@ -59,7 +60,7 @@ header {
 #rhodieP4 {
     position: absolute;
     top: 14em;
-    left: 1em;
+    left: .7em;
     color: white;
     font-size: 1em
 }
@@ -67,17 +68,39 @@ header {
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
 @media screen and (orientation: landscape) {
+    
     #rhodiePiture {
         width: 50vw;
     }
     #rhodieTitle {
-        width: 50vw;
-        left: 50vw;
-        background-color: dark;
-    }
-    #rhodieTitle h1 {
         width: 45vw;
     }
+    #rhodieTitle h1 {
+        width: 50vw;
+        left: 53vw;
+        background-color: darksalmon;
+
+    }
+    #rhodieP1 {
+        width: 50vw;
+        left: 52vw;
+    }
+
+     #rhodieP2 {
+        width: 50vw;
+        left: 52vw;
+    }
+
+     #rhodieP3 {
+        width: 50vw;
+        left: 52vw;
+    }
+
+     #rhodieP4 {
+        width: 50vw;
+        left: 52vw;
+    }
+    
 }
 
 /* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
