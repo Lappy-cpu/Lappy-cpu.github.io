@@ -32,9 +32,33 @@ header {
     width: calc(100vw - 2em)
 }
 
-#rhodieTitle p {
+#rhodieP1 {
     position: absolute;
     top: 0;
+    left: 1em;
+    color: white;
+    font-size: 1em
+}
+
+#rhodieP2 {
+    position: absolute;
+    top: 5.5em;
+    left: 1em;
+    color: white;
+    font-size: 1em
+}
+
+#rhodieP3 {
+    position: absolute;
+    top: 11em;
+    left: 1em;
+    color: white;
+    font-size: 1em
+}
+
+#rhodieP4 {
+    position: absolute;
+    top: 14em;
     left: 1em;
     color: white;
     font-size: 1em
