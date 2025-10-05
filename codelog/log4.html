@@ -37,14 +37,15 @@
                     color of an element. You can set the colors for all four sides of the border simultaneously, or
                     specify a different color for each side. This helps visually distinguish the border from the
                     background and surrounding content on a webpage.</p>
-                    <p>Each color CSS can be used in this way:</p>
+    <p>You can use the <.color> CSS to using the HTML code. Here is the example:</p>
 
 
     <textarea cols="60" rows="20">
     - Index 
         <div class="container">
     The color of this text is blue.
-     <div class="child"></div>
+     
+    <div class="child"></div>
 
     This block is surrounded by a blue border.
     
@@ -64,10 +65,20 @@
 
 		</textarea>
 
+    <p>You can use the <.color> CSS (Including background-color and border-color) to using the <.div> code.</p>
 
-
-    <h2>How does CSS accept color as a value?</h2>
-    <p></p>
+    <h2>Named, Hexadecimal, RGB, and RGBA</h2>
+    <p>First, named CSS represents color codes, such as red, black, and light green. Other colors, such as silver or
+        purple, can also be used. This CSS allows you to manipulate colors simply by writing the color name. Hexadecimal
+        colors are typically specified as #RRGGBB, where RR represents red, GG represents green, and BB represents blue,
+        and are specified as color components in a hexadecimal integer. Therefore, when applying colors this way, you
+        usually enter two fs in #000000 to specify the desired color. RGB color values ​​are specified using the rgb()
+        function. RGB represents red, green, and blue, respectively. If you input the highest value of 255 or 100%, one
+        of the three colors will appear. RGBA color values ​​are an extension of RGB color values ​​with an alpha
+        channel, which specifies the opacity of an object. They are designated by the rgba function, with an "a" added
+        to the end of the original rgb. The color input is almost identical to that of RGB color values, but the key
+        difference is that an alpha parameter must be included. The alpha parameter is a number between 0.0 (completely
+        transparent) and 1.0 (completely opaque).</p>
 
 
 
