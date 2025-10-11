@@ -1,0 +1,15 @@
+/* mobile-first design */
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
+
+@media screen and (orientation: landscape) {
+
+   
+}
+
+/* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
