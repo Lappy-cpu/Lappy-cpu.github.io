@@ -1,6 +1,7 @@
 @media screen and (orientation: landscape) {
     #pancakepicture {
-        
+        position: absolute;
+        background-image: url(delicious-1534220_649.jpg)
     }
    
 }
