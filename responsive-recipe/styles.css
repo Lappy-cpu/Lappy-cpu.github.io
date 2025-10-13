@@ -15,7 +15,13 @@
 
     #Pancakein {
         position: absolute;
-        left: 45em;
+        left: 60em;
+        top: 8.5em;
+    }
+
+    #PancakeD1 {
+        position: absolute;
+        margin-left: calc(100% * 1 / 6);
     }
     }
    
