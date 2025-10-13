@@ -4,6 +4,12 @@
         width: 100vw;
         background-image: url(delicious-1534220_640.jpg);
     }
+
+    #PancakeHead h1 {
+        position: absolute;
+        left: 30em;
+        font-size: 2.5em;
+    }
     }
    
 
