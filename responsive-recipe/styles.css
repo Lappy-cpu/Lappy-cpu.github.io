@@ -13,6 +13,12 @@
         font-size: 1.1em;
     }
 
+    #Pancakein {
+        position: absolute;
+        left: 60em;
+        top: 10em;
+    }
+
     #PancakeD1 {
         position: absolute;
         left: 50em;
