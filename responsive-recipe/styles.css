@@ -9,8 +9,13 @@
     #Pancakeexplain {
         position: absolute;
         left: 38em;
-        top: 8em;
+        top: 6.5em;
         font-size: 1.1em;
+    }
+
+    #Pancakein {
+        position: absolute;
+        left: 45em;
     }
     }
    
