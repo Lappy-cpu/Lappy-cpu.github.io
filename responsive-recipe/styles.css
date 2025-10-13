@@ -1,9 +1,4 @@
 @media screen and (orientation: landscape) {
-    #Pancakepicture {
-        position: absolute;
-        width: 100vw;
-        background-image: url(delicious-1534220_640.jpg);
-    }
 
     #PancakeHead h1 {
         position: absolute;
