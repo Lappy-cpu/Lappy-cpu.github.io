@@ -9,6 +9,12 @@ body {
     margin: 0;
 }
 
+#img {
+    position: absolute;
+    width: 100vw;
+     height: 100vh;
+}
+
  #PancakeTitle h1 {
         position: absolute;
         left: 2.3em;
@@ -25,44 +31,4 @@ body {
 
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
-
-@media screen and (orientation: landscape) {
-
-    #PancakeTitle h1 {
-        position: absolute;
-        left: 12em;
-        Top: 0em;
-        font-size: 3.5em;
-    }
-    
-    #Pancakeexplain {
-        position: absolute;
-        left: 38em;
-        top: 6.5em;
-        font-size: 1.1em;
-    }
-
-    #Pancakein {
-        position: absolute;
-        left: 60em;
-        top: 9em;
-    }
-
-    #PancakeDT {
-        left: 60em;
-    }
-
-    #PancakeD {
-        position: absolute;
-        left: -.4em;
-        
-    }
-
-    #Pancakecopy footer {
-        position: absolute;
-        right: 1em;
-        bottom: 0em;
-    }
-    }
-   
 
