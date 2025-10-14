@@ -16,7 +16,7 @@
     #Pancakein {
         position: absolute;
         left: 60em;
-        top: 10em;
+        top: 9em;
     }
 
     #PancakeDT {
@@ -25,12 +25,13 @@
 
     #PancakeD1 {
         position: absolute;
-        left: 50em;
+        right: 20em;
         
     }
 
     #PancakeD2 {
         position: absolute;
+        left: 50em;
     }
 
     #Pancakecopy footer {
