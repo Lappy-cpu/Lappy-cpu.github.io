@@ -20,6 +20,7 @@ body {
     #PancakeTitle h1 {
         position: absolute;
         left: 12em;
+        Top: 0em;
         font-size: 3.5em;
     }
     
