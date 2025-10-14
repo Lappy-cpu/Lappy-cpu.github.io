@@ -18,6 +18,7 @@ body {
  #PancakeTitle h1 {
         position: absolute;
         left: 1.3em;
+         bottom: 3.8em;
         font-size: 2.5em;
         width: calc(100vw - 2em)
  }
@@ -25,8 +26,43 @@ body {
     #Pancakeexplain {
         position: absolute;
         left: 1.2em;
+        bottom: 6em;
+    }
+
+    #PancakeinT {
+        position: absolute;
+        left: 8.5em;
+        bottom: 3.5em;
+        
+    }
+
+    #Pancakein {
+        position: absolute;
+        left: 0.5em;
+        top: 36em;
+    }
+
+    #PancakeDT {
+        position: absolute;
+        left: 8.5em;
+        top: 62em;
+    }
+
+    #PancakeD {
+    position: absolute;
+         left: 0.5em;
+        top: 64em;
+    }
+
+    #Pancakecopy footer {
+    position: absolute;
+        top: 107em;
+        left: 7em;
+        font-size: 
     }
 
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
+
+
 
 
