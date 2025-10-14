@@ -63,6 +63,41 @@ body {
 
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
+@media screen and (orientation: landscape) {
 
+#PancakeTitle h1 {
+position: absolute;
+left: 12em;
+Top: 0em;
+}
 
+#Pancakeexplain {
+position: absolute;
+left: 38em;
+top: 6.5em;
+}
 
+#Pancakein {
+position: absolute;
+left: 60em;
+top: 9em;
+}
+
+#PancakeDT {
+left: 60em;
+}
+
+#PancakeD {
+position: absolute;
+left: -.4em;
+
+}
+
+#Pancakecopy footer {
+position: absolute;
+right: 1em;
+bottom: 0em;
+}
+}
+
+/* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
