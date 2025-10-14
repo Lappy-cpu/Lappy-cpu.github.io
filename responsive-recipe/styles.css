@@ -17,16 +17,14 @@ body {
 
  #PancakeTitle h1 {
         position: absolute;
-        left: 2.3em;
+        left: 1.3em;
         font-size: 2.5em;
         width: calc(100vw - 2em)
  }
             
     #Pancakeexplain {
         position: absolute;
-        left: 38em;
-        bottom: 50em;
-        font-size: 1.1em;
+        left: 1.2em;
     }
 
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
