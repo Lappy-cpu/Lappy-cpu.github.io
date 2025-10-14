@@ -25,13 +25,13 @@
 
     #PancakeD {
         position: absolute;
-        left: 10em;
+        left: -.4em;
         
     }
 
     #Pancakecopy footer {
         position: absolute;
-        left: 70em;
+        right: 1em;
         bottom: 0em;
     }
     }
