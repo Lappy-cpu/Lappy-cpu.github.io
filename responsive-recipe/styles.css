@@ -23,15 +23,10 @@
         left: 60em;
     }
 
-    #PancakeD1 {
+    #PancakeD {
         position: absolute;
-        right: 20em;
+        left: 10em;
         
-    }
-
-    #PancakeD2 {
-        position: absolute;
-        left: 50em;
     }
 
     #Pancakecopy footer {
