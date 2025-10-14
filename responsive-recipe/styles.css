@@ -36,6 +36,12 @@ body {
         
     }
 
+    #PancakeinT {
+        position: absolute;
+        left: 8.5em;
+        top: 34em;
+    }
+
     #Pancakein {
         position: absolute;
         left: 0.5em;
@@ -67,36 +73,45 @@ body {
 
 #PancakeTitle h1 {
 position: absolute;
-left: 12em;
+left: 16.5em;
 Top: 0em;
 }
 
 #Pancakeexplain {
 position: absolute;
-left: 38em;
+left: 41em;
 top: 6.5em;
 }
+
+#PancakeinT {
+position: absolute;
+left: 60em;
+top: 8.5em;
+}
+ 
 
 #Pancakein {
 position: absolute;
 left: 60em;
-top: 9em;
+top: 11em;
 }
 
 #PancakeDT {
-left: 60em;
+position: absolute;
+left: 1em;
+top: 27em;
 }
 
 #PancakeD {
 position: absolute;
-left: -.4em;
-
+left: 1em;
+top: 30em;
 }
 
 #Pancakecopy footer {
 position: absolute;
-right: 1em;
-bottom: 0em;
+left: 65em;
+top: 45em;
 }
 }
 
