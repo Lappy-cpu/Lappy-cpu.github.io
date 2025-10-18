@@ -1,0 +1,118 @@
+/* mobile-first design for responsive recipe layout */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.img {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+
+ #PancakeTitle h1 {
+        position: absolute;
+        left: 1.3em;
+        bottom: 3.8em;
+        font-size: 2.5em;
+        width: calc(100vw - 2em);
+ }
+            
+    #Pancakeexplain {
+        position: absolute;
+        left: 1.2em;
+        bottom: 6em;
+    }
+
+    #PancakeinT {
+        position: absolute;
+        left: 8.5em;
+        bottom: 3.5em;
+        
+    }
+
+    #PancakeinT {
+        position: absolute;
+        left: 8.5em;
+        top: 34em;
+    }
+
+    #Pancakein {
+        position: absolute;
+        left: 0.5em;
+        top: 36em;
+    }
+
+    #PancakeDT {
+        position: absolute;
+        left: 8.5em;
+        top: 62em;
+    }
+
+    #PancakeD {
+    position: absolute;
+         left: 0.5em;
+        top: 64em;
+    }
+
+    #Pancakecopy footer {
+    position: absolute;
+        top: 107em;
+        left: 7em;
+        font-size: 
+    }
+
+/* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
+
+@media screen and (orientation: landscape) {
+
+#PancakeTitle h1 {
+position: absolute;
+left: 16.5em;
+Top: 0em;
+}
+
+#Pancakeexplain {
+position: absolute;
+left: 41em;
+top: 6.5em;
+}
+
+#PancakeinT {
+position: absolute;
+left: 60em;
+top: 8.5em;
+}
+ 
+
+#Pancakein {
+position: absolute;
+left: 60em;
+top: 11em;
+}
+
+#PancakeDT {
+position: absolute;
+left: 1em;
+top: 27em;
+}
+
+#PancakeD {
+position: absolute;
+left: 1em;
+top: 30em;
+}
+
+#Pancakecopy footer {
+position: absolute;
+left: 65em;
+top: 45em;
+}
+}
+
+/* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
