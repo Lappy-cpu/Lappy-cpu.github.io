@@ -29,13 +29,6 @@ body {
         bottom: 5.4em;
     }
 
-    #PancakeinT {
-        position: absolute;
-        left: 8.5em;
-        bottom: 3.5em;
-        
-    }
-
     #RecipeinT {
         position: absolute;
         left: 8.5em;
@@ -67,13 +60,56 @@ body {
         font-size: 
     }
 
-    #RecipeDT2 {
+    /* layout for recipe 2 */
+
+    #RecipeTitle2 h1 {
         position: absolute;
+        left: 1.3em;
+        bottom: 3.1em;
+        font-size: 2.5em;
+        width: calc(100vw - 2em);
+ }
+            
+    #RecipeExplain2 {
+        position: absolute;
+        left: 1.2em;
+        bottom: 5.4em;
+    }
+
+    #RecipeinT2 {
+        position: absolute;
+        left: 8.5em;
+        top: 34em;
+    }
+
+    #Recipein2 {
+        position: absolute;
+        left: 0.5em;
+        top: 36em;
     }
 
     #RecipeDT2 {
         position: absolute;
+        left: 8.5em;
+        top: 62em;
     }
+
+    #RecipeD2 {
+    position: absolute;
+         left: 0.5em;
+        top: 64em;
+    }
+
+    #Recipecopy2 footer {
+    position: absolute;
+        top: 107em;
+        left: 7em;
+        font-size: 
+    }
+
+    /* layout for recipe 3 */
+
+    /* rayout for home */
 
 #Title h1 {
     position: absolute;
@@ -106,7 +142,6 @@ position: absolute;
 left: 60em;
 top: 8.5em;
 }
- 
 
 #Recipein {
 position: absolute;
@@ -132,6 +167,8 @@ left: 65em;
 top: 45em;
 }
 
+ /* rayout for home */
+
 #Title h1 {
     position: absolute;
     top: 16em;
@@ -142,12 +179,51 @@ top: 45em;
     bottom: 10.5em;
 }
 
-#RecipeDT2 {
+ /* layout for recipe 2 */
+
+#RecipeTitle2 h1 {
         position: absolute;
+        left: 1.3em;
+        bottom: 3.1em;
+        font-size: 2.5em;
+        width: calc(100vw - 2em);
+ }
+            
+    #RecipeExplain2 {
+        position: absolute;
+        left: 1.2em;
+        bottom: 5.4em;
+    }
+
+    #RecipeinT2 {
+        position: absolute;
+        left: 8.5em;
+        top: 34em;
+    }
+
+    #Recipein2 {
+        position: absolute;
+        left: 0.5em;
+        top: 36em;
     }
 
     #RecipeDT2 {
         position: absolute;
+        left: 8.5em;
+        top: 62em;
+    }
+
+    #RecipeD2 {
+    position: absolute;
+         left: 0.5em;
+        top: 64em;
+    }
+
+    #Recipecopy2 footer {
+    position: absolute;
+        top: 107em;
+        left: 7em;
+        font-size: 
     }
 }
 
