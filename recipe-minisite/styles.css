@@ -15,7 +15,7 @@ body {
     height: 100vh;
 }
 
-  #PancakeTitle h1 {
+  #RecipeTitle h1 {
         position: absolute;
         left: 1.3em;
         bottom: 3.1em;
@@ -23,7 +23,7 @@ body {
         width: calc(100vw - 2em);
  }
             
-    #PancakeExplain {
+    #RecipeExplain {
         position: absolute;
         left: 1.2em;
         bottom: 5.4em;
@@ -36,31 +36,31 @@ body {
         
     }
 
-    #PancakeinT {
+    #RecipeinT {
         position: absolute;
         left: 8.5em;
         top: 34em;
     }
 
-    #Pancakein {
+    #Recipein {
         position: absolute;
         left: 0.5em;
         top: 36em;
     }
 
-    #PancakeDT {
+    #RecipeDT {
         position: absolute;
         left: 8.5em;
         top: 62em;
     }
 
-    #PancakeD {
+    #RecipeD {
     position: absolute;
          left: 0.5em;
         top: 64em;
     }
 
-    #Pancakecopy footer {
+    #Recipecopy footer {
     position: absolute;
         top: 107em;
         left: 7em;
@@ -81,44 +81,44 @@ body {
 
 @media screen and (orientation: landscape) {
 
-#PancakeTitle h1 {
+#RecipeTitle h1 {
 position: absolute;
 left: 16.5em;
 Top: 0em;
 }
 
-#PancakeExplain {
+#RecipeExplain {
 position: absolute;
 left: 41em;
 top: 6.5em;
 }
 
-#PancakeinT {
+#RecipeinT {
 position: absolute;
 left: 60em;
 top: 8.5em;
 }
  
 
-#Pancakein {
+#Recipein {
 position: absolute;
 left: 60em;
 top: 11em;
 }
 
-#PancakeDT {
+#RecipeDT {
 position: absolute;
 left: 1em;
 top: 27em;
 }
 
-#PancakeD {
+#RecipeD {
 position: absolute;
 left: 1em;
 top: 30em;
 }
 
-#Pancakecopy footer {
+#Recipecopy footer {
 position: absolute;
 left: 65em;
 top: 45em;
