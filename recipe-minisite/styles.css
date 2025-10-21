@@ -15,10 +15,10 @@ body {
     height: 100vh;
 }
 
- #PancakeTitle h1 {
+  #PancakeTitle h1 {
         position: absolute;
         left: 1.3em;
-        bottom: 3.8em;
+        bottom: 3.1em;
         font-size: 2.5em;
         width: calc(100vw - 2em);
  }
@@ -26,7 +26,7 @@ body {
     #PancakeExplain {
         position: absolute;
         left: 1.2em;
-        bottom: 6em;
+        bottom: 5.4em;
     }
 
     #PancakeinT {
