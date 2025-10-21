@@ -15,7 +15,7 @@ body {
     height: 100vh;
 }
 
- #Title h1 {
+ #PancakeTitle h1 {
         position: absolute;
         left: 1.3em;
         bottom: 3.8em;
@@ -23,7 +23,7 @@ body {
         width: calc(100vw - 2em);
  }
             
-    #Explain {
+    #PancakEexplain {
         position: absolute;
         left: 1.2em;
         bottom: 6em;
@@ -113,6 +113,14 @@ position: absolute;
 left: 65em;
 top: 45em;
 }
+}
+
+#Title h1 {
+    position: absolute;
+}
+
+#Explain {
+    position: absolute;
 }
 
 /* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
