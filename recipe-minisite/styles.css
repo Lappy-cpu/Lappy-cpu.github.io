@@ -15,7 +15,7 @@ body {
     height: 100vh;
 }
 
- #PancakeTitle h1 {
+ #Title h1 {
         position: absolute;
         left: 1.3em;
         bottom: 3.8em;
@@ -23,7 +23,7 @@ body {
         width: calc(100vw - 2em);
  }
             
-    #Pancakeexplain {
+    #Explain {
         position: absolute;
         left: 1.2em;
         bottom: 6em;
