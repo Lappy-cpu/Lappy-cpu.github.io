@@ -67,6 +67,14 @@ body {
         font-size: 
     }
 
+    #RecipeDT2 {
+        position: absolute;
+    }
+
+    #RecipeDT2 {
+        position: absolute;
+    }
+
 #Title h1 {
     position: absolute;
     top: 16em;
@@ -133,6 +141,14 @@ top: 45em;
     position: absolute;
     bottom: 10.5em;
 }
+
+#RecipeDT2 {
+        position: absolute;
+    }
+
+    #RecipeDT2 {
+        position: absolute;
+    }
 }
 
 /* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
