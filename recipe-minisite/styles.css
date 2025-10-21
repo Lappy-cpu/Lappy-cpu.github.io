@@ -23,7 +23,7 @@ body {
         width: calc(100vw - 2em);
  }
             
-    #PancakEexplain {
+    #PancakeExplain {
         position: absolute;
         left: 1.2em;
         bottom: 6em;
@@ -87,7 +87,7 @@ left: 16.5em;
 Top: 0em;
 }
 
-#Pancakeexplain {
+#PancakeExplain {
 position: absolute;
 left: 41em;
 top: 6.5em;
