@@ -1,6 +1,3 @@
-// JS for responsive menu demo
-// file renamed to "scripts.js" (plural) after the demo
-
 // function to hide/show menu items 
 function clickNav(bodyClicked) {
     let navHandle = document.querySelector("nav");
