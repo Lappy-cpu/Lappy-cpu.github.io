@@ -69,12 +69,12 @@ body {
 
 #Title h1 {
     position: absolute;
-    top: 14.5em;
+    top: 16em;
 }
 
 #Explain {
     position: absolute;
-    bottom: 2em;
+    bottom: -1em;
 }
 
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
@@ -126,12 +126,12 @@ top: 45em;
 
 #Title h1 {
     position: absolute;
-    top: 14.5em;
+    top: 16em;
 }
 
 #Explain {
     position: absolute;
-    bottom: 13em;
+    bottom: 10.5em;
 }
 }
 
