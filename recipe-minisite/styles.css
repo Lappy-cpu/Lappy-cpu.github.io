@@ -67,6 +67,14 @@ body {
         font-size: 
     }
 
+#Title h1 {
+    position: absolute;
+}
+
+#Explain {
+    position: absolute;
+}
+
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
 @media screen and (orientation: landscape) {
@@ -113,14 +121,6 @@ position: absolute;
 left: 65em;
 top: 45em;
 }
-}
-
-#Title h1 {
-    position: absolute;
-}
-
-#Explain {
-    position: absolute;
 }
 
 /* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
