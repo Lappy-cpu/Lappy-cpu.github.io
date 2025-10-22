@@ -107,10 +107,10 @@ body {
 
     /* layout for recipe 3 */
 
-    #RecipeTitle3 h1 {
+     #RecipeTitle3 h1 {
         position: absolute;
         left: 1.3em;
-        bottom: 0.9em;
+        top: 11em;
         font-size: 2.3em;
         width: calc(100vw - 2em);
  }
@@ -118,36 +118,36 @@ body {
     #RecipeExplain3 {
         position: absolute;
         left: 1.2em;
-        bottom: -.7em;
+        top: 34em;
     }
 
     #RecipeinT3 {
         position: absolute;
         left: 8.5em;
-        bottom: -3.2em;
+        top: 41em;
     }
 
     #Recipein3 {
         position: absolute;
         left: 0.5em;
-        bottom: -31em;
+        top: 44em;
     }
 
      #RecipeDT3 {
         position: absolute;
         left: 8.5em;
-        bottom: -35.4em;
+        top: 54.5em;
     }
 
     #RecipeD3 {
     position: absolute;
          left: 0.5em;
-        bottom: -136.4em;
+        top: 57em;
     }
 
     #Recipecopy3 footer {
     position: absolute;
-        bottom: -140em;
+        top: 109em;
         left: 7em;
     }
 
