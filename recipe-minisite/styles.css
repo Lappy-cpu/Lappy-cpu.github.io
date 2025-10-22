@@ -229,7 +229,7 @@ top: 45em;
 #RecipeTitle2 h1 {
         position: absolute;
         left: 16.3em;
-        top: 1em;
+        top: 0.8em;
         font-size: 2.5em;
         width: calc(100vw - 2em);
  }
@@ -243,32 +243,32 @@ top: 45em;
 
     #RecipeinT2 {
         position: absolute;
-        left: 8.5em;
-        top: 34em;
+        left: 70em;
+        top: 10em;
     }
 
     #Recipein2 {
         position: absolute;
-        left: 0.5em;
-        top: 36em;
+        left: 55em;
+        top: 13em;
     }
 
     #RecipeDT2 {
         position: absolute;
         left: 8.5em;
-        top: 62em;
+        top: 32.9em;
     }
 
     #RecipeD2 {
     position: absolute;
-         left: 0.5em;
-        top: 64em;
+         left: -0.5em;
+        top: 35.3em;
     }
 
     #Recipecopy2 footer {
     position: absolute;
-        top: 107em;
-        left: 7em;
+        top: 68em;
+        left: 73.2em;
         font-size: 
     }
 
