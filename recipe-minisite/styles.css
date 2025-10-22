@@ -320,8 +320,8 @@ top: 45em;
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: gray;
-    --nav-text-color: white;
+    --nav-bkgd-color: orange;
+    --nav-text-color: black;
     --nav-hover-bkgd-color: lightgray;
     --nav-hover-text-color: black;
 }
