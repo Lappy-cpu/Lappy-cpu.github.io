@@ -18,7 +18,7 @@ body {
   #RecipeTitle h1 {
         position: absolute;
         left: 1.3em;
-        bottom: 3.1em;
+        bottom: 1.9em;
         font-size: 2.5em;
         width: calc(100vw - 2em);
  }
@@ -26,38 +26,37 @@ body {
     #RecipeExplain {
         position: absolute;
         left: 1.2em;
-        bottom: 5.4em;
+        bottom: 2em;
     }
 
     #RecipeinT {
         position: absolute;
         left: 8.5em;
-        top: 34em;
+        bottom: -0.4em;
     }
 
     #Recipein {
         position: absolute;
         left: 0.5em;
-        top: 36em;
+        bottom: -26em;
     }
 
     #RecipeDT {
         position: absolute;
         left: 8.5em;
-        top: 62em;
+         bottom: -28.6em;
     }
 
     #RecipeD {
     position: absolute;
          left: 0.5em;
-        top: 64em;
+        bottom: -70em;
     }
 
     #Recipecopy footer {
     position: absolute;
-        top: 107em;
+        bottom: -73em;
         left: 7em;
-        font-size: 
     }
 
     /* layout for recipe 2 */
@@ -104,7 +103,6 @@ body {
     position: absolute;
         bottom: -140em;
         left: 7em;
-        font-size: 
     }
 
     /* layout for recipe 3 */
@@ -151,7 +149,6 @@ body {
     position: absolute;
         top: 107em;
         left: 7em;
-        font-size: 
     }
 
     /* rayout for home */
@@ -269,7 +266,6 @@ top: 45em;
     position: absolute;
         top: 68em;
         left: 73.2em;
-        font-size: 
     }
 
     /* layout for recipe 3 */
@@ -316,7 +312,6 @@ top: 45em;
     position: absolute;
         top: 107em;
         left: 7em;
-        font-size: 
     }
 }
 
