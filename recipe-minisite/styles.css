@@ -272,46 +272,46 @@ top: 45em;
 
    #RecipeTitle3 h1 {
         position: absolute;
-        left: 1.3em;
-        top: 5em;
+        left: 21.7em;
+        top: 1.3em;
         font-size: 2.3em;
         width: calc(100vw - 2em);
    }
             
     #RecipeExplain3 {
         position: absolute;
-        left: 1.2em;
-        bottom: -.7em;
+        left: 50.2em;
+        top: 7em;
     }
 
     #RecipeinT3 {
         position: absolute;
-        left: 8.5em;
-        bottom: -3.2em;
+        left: 72em;
+        top: 11.5em;
     }
 
     #Recipein3 {
         position: absolute;
-        left: 0.5em;
-        bottom: -31em;
+       left: 72em;
+        top: 13.7em;
     }
 
     #RecipeDT3 {
         position: absolute;
-        left: 8.5em;
-        bottom: -35.4em;
+        left: 4em;
+        top: 27.7em;
     }
 
     #RecipeD3 {
     position: absolute;
          left: 0.5em;
-        bottom: -62em;
+        top: 30em;
     }
 
     #Recipecopy3 footer {
     position: absolute;
-        top: 107em;
-        left: 7em;
+       top: 45em;
+        left: 74em;
     }
 }
 
