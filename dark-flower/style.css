@@ -107,12 +107,3 @@ header {
 }
 
 /* PUT THE REST OF THE DESKTOP BASELINE LAYOUT HERE */
-
-#toggleDarkMode {
-    margin-top: 2em;
-}
-
-body.darkMode {
-    background-color: darkgrey;
-    color: white;
-}
