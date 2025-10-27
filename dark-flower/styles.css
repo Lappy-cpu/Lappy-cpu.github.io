@@ -105,12 +105,18 @@ left: 52vw;
 }
 
 #toggleDarkMode {
-    margin-top: 2em;
+    margin-top: -60em;
+    margin-left: 80em;
 }
 
 body.darkMode {
     background-color: darkgrey;
     color: white;
+}
+
+darkMode h1 {
+    color: orangered;
+    background-color: darkgray;
 }
 
 }
