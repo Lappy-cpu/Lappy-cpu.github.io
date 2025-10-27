@@ -110,13 +110,13 @@ left: 52vw;
 }
 
 body.darkMode {
-    background-color: darkgrey;
+    background-color: rgb(129, 85, 141);
     color: white;
 }
 
-darkMode h1 {
-    color: orangered;
-    background-color: darkgray;
+body.darkMode h1 {
+    color: white;
+    background-color: rgb(129, 85, 141);
 }
 
 }
