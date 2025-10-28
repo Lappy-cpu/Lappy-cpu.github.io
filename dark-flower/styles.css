@@ -109,13 +109,13 @@ left: 52vw;
 }
 
 body.darkMode {
-    background-color: rgb(129, 85, 141);
+    background-color: cadetblue;
     color: white;
 }
 
 body.darkMode h1 {
     color: white;
-    background-color: rgb(129, 85, 141);
+    background-color: cadetblue;
 }
 
 }
