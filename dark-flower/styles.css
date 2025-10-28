@@ -118,4 +118,9 @@ body.darkMode h1 {
     color: red;
 }
 
+body.darkMode h3 {
+    background-color: darkblue;
+    color: red;
+}
+
 }
