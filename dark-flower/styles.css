@@ -114,7 +114,12 @@ header {
       color: red;
     }
 
-    body.darkMode h1 {
+    section.darkMode {
+      background-color: darkblue;
+      color: red;
+    }
+
+    div.darkMode h1 {
       background-color: darkblue;
       color: red;
     }
