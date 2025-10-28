@@ -138,7 +138,7 @@ header {
       color: red;
     }
 
-    body.darkMode #rhodieTitle {
+    body.darkMode #rhodieTitle h1 {
         background-color: darkblue;
         color: red;
     }
