@@ -20,11 +20,6 @@ img {
   height: auto;
 }
 
-img {
-  width: 500px;
-  height: auto;
-}
-
 #rhodieTitle h1 {
 position: absolute;
 bottom: 0;
@@ -69,6 +64,11 @@ font-size: 1em
 /* PUT THE REST OF THE MOBILE BASELINE LAYOUT HERE */
 
 @media screen and (orientation: landscape) {
+
+img {
+  width: 500px;
+  height: auto;
+}
 
 #rhodiePiture {
 width: 51vw;
