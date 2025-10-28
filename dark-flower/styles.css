@@ -133,7 +133,7 @@ header {
       color: red;
     }
 
-    div.darkMode h1 {
+    body.darkMode div h1 {
       background-color: darkblue;
       color: red;
     }
