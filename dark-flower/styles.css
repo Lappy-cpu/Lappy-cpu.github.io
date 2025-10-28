@@ -113,7 +113,22 @@ header {
       color: red;
     }
 
-    section.darkMode {
+    #rhodieP1.darkMode {
+      background-color: darkblue;
+      color: red;
+    }
+
+    #rhodieP2.darkMode {
+      background-color: darkblue;
+      color: red;
+    }
+
+    #rhodieP3.darkMode {
+      background-color: darkblue;
+      color: red;
+    }
+
+    #rhodieP4.darkMode {
       background-color: darkblue;
       color: red;
     }
@@ -121,6 +136,11 @@ header {
     div.darkMode h1 {
       background-color: darkblue;
       color: red;
+    }
+
+    #rhodieTitle.darkMode {
+        background-color: darkblue;
+        color: red;
     }
 }
 
