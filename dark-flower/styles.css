@@ -113,22 +113,22 @@ header {
       color: red;
     }
 
-    #rhodieP1.darkMode {
+    body.darkMode #rhodieP1 {
       background-color: darkblue;
       color: red;
     }
 
-    #rhodieP2.darkMode {
+    body.darkMode #rhodieP2 {
       background-color: darkblue;
       color: red;
     }
 
-    #rhodieP3.darkMode {
+    body.darkMode #rhodieP3 {
       background-color: darkblue;
       color: red;
     }
 
-    #rhodieP4.darkMode {
+    body.darkMode #rhodieP4 {
       background-color: darkblue;
       color: red;
     }
@@ -138,7 +138,7 @@ header {
       color: red;
     }
 
-    #rhodieTitle.darkMode {
+    body.darkMode #rhodieTitle {
         background-color: darkblue;
         color: red;
     }
