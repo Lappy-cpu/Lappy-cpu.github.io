@@ -15,10 +15,6 @@ width: 100vw;
 height: 100vh;
 }
 
-#rhodiePiture {
-background-image: url("Pacific\ Rhododendron\ 2\ -\ Gary\ Monroe-1.jpeg");
-}
-
 #rhodieTitle h1 {
 position: absolute;
 bottom: 0;
