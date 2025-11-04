@@ -15,9 +15,9 @@ h1 {
 
 #Photo {
     position: absolute;
-    width: 100vw;
-    height: 100vh;
+    width: 500vw;
+    height: 500vh;
     background-image: url("istockphoto-1813083710-612x612.jpg");
-    background-size:
-    background-position:
+    background-size: center;
+    background-position: center;
 }
