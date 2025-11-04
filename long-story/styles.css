@@ -32,15 +32,18 @@ section > .content > p {
 
 #team1 {
     position: absolute;
-    top: 2em;
+	left: 70rem;
+    top: 8rem;
 }
 
 #team2 {
     position: absolute;
-    top: 10em;
+	left: 70rem;
+    top: 25rem;
 }
 
 #team3 {
     position: absolute;
-    top: 20em;
+	left: 70rem;
+    top: 50em;
 }
