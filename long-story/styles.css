@@ -29,3 +29,18 @@ section > .content > p {
     font-size: 2rem;
     padding: 1rem;
 }
+
+#team1 {
+    position: absolute;
+    top: 2em;
+}
+
+#team2 {
+    position: absolute;
+    top: 10em;
+}
+
+#team3 {
+    position: absolute;
+    top: 20em;
+}
