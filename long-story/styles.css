@@ -24,8 +24,8 @@ h1 {
 	background-repeat: no-repeat;
 }
 
-/* paragraph tags are given a size and padding */
 section > .content > p {
+    position: absolute;
     font-size: 2rem;
     padding: 1rem;
 }
