@@ -1,3 +1,18 @@
+* {
+    box-sizing: border-box; /* set box-sizing to make dimensions primary */
+}
+
+html, body {
+	padding: 0;
+	margin: 0;
+	font-family: "Titillium Web", sans-serif;
+}
+
+h1 {
+	padding: 0;
+	margin: 0;
+}
+
 #Photo {
     position: absolute;
     width: 100vw;
