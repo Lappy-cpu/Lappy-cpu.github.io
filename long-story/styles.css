@@ -9,15 +9,17 @@ html, body {
 }
 
 h1 {
+	position: absolute;
 	padding: 0;
 	margin: 0;
 }
 
 #Photo {
     position: absolute;
-    width: 500vw;
-    height: 500vh;
+    width: 100vw;
+    height: 500vw;
     background-image: url("istockphoto-1813083710-612x612.jpg");
-    background-size: center;
-    background-position: center;
+    background-size: cover;
+    background-position: center top;
+	background-repeat: no-repeat;
 }
