@@ -65,3 +65,9 @@ section > .content > p {
 	left: 70rem;
     top: 130em;
 }
+
+#title {
+     position: absolute;
+     left: 30rem;
+    top: 8rem;
+}
