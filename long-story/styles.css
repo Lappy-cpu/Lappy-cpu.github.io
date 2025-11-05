@@ -66,15 +66,9 @@ section > .content > p {
     bottom: -135rem;
 }
 
-#team6 {
-    position: absolute;
-	left: 70rem;
-    top: 130em;
-}
-
 #title {
-     position: absolute;
-     left: 39rem;
+    position: absolute;
+    left: 39rem;
     top: 4rem;
 	font-size: 2.5rem;
 }
