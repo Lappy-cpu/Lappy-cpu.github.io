@@ -32,42 +32,42 @@ section > .content > p {
 
 #team1 {
     position: absolute;
-	left: 70rem;
-    top: 8rem;
+	font-size: 1rem;
+	width: 50vw;
+	left: 47rem;
+    top: 15rem;
 }
 
 #team2 {
     position: absolute;
-	left: 70rem;
-    top: 25rem;
+	width: 50vw;
+	left: 45.5rem;
+    top: 47rem;
 }
 
 #team3 {
     position: absolute;
-	left: 70rem;
-    top: 50em;
+	width: 50vw;
+	left: 45.5rem;
+    bottom: -46rem;
 }
 
 #team4 {
     position: absolute;
-	left: 70rem;
-    top: 80em;
+	width: 50vw;
+	left: 45.5rem;
+    bottom: -88rem;
 }
 
 #team5 {
-    position: absolute;
-	left: 70rem;
-    top: 100em;
+   position: absolute;
+	width: 50vw;
+	left: 45.5rem;
+    bottom: -135rem;
 }
 
 #team6 {
     position: absolute;
 	left: 70rem;
     top: 130em;
-}
-
-#title {
-     position: absolute;
-     left: 30rem;
-    top: 8rem;
 }
