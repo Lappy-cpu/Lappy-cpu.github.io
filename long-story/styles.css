@@ -47,3 +47,21 @@ section > .content > p {
 	left: 70rem;
     top: 50em;
 }
+
+#team4 {
+    position: absolute;
+	left: 70rem;
+    top: 80em;
+}
+
+#team5 {
+    position: absolute;
+	left: 70rem;
+    top: 100em;
+}
+
+#team6 {
+    position: absolute;
+	left: 70rem;
+    top: 130em;
+}
