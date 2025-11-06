@@ -72,3 +72,32 @@ section > .content > p {
     top: 4rem;
 	font-size: 2.5rem;
 }
+
+#team1 p {
+	background-color: white;
+	width: 45vw;
+}
+
+#team2 p {
+	background-color: white;
+	width: 45vw;
+}
+
+#team3 p {
+	background-color: white;
+	width: 45vw;
+}
+
+#team4 p {
+	background-color: white;
+	width: 45vw;
+}
+
+#team5 p {
+	background-color: white;
+	width: 45vw;
+}
+
+#title h1 {
+	background-color: white;
+}
