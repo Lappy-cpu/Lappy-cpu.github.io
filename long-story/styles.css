@@ -13,7 +13,7 @@ main {
 position: absolute;
 width: 100vw;
 height: 500vh;
-background-image: url("istockphoto-83356851-612x612.jpg");
+background-image: url("Dog-Piture.jpg");
 background-size: cover;
 background-position: center top;
 background-repeat: no-repeat;
@@ -83,6 +83,6 @@ section > .instructions {
 }
 
 /* change the color in the last section due to the background image */
-#title h1, #team1 p, #team2 p, #team3 p, #team4 p, #team5 p {
+#title h1, #team1 p, #team2 p, #team3 p, #team4 p {
     background-color: #cfddebbb;
 }
