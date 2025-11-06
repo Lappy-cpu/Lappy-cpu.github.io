@@ -24,6 +24,19 @@ h1 {
 	background-repeat: no-repeat;
 }
 
+/* position the "scroll down" instructions at the bottom of the screen, aligned with .content */
+section > .instructions {
+    position: absolute;
+    bottom: 2vh;
+    width: 42vw;
+    right: 4vw;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1rem;
+    color: #000;
+    padding-left: 1rem; /* to align with paragraphs */
+}
+
 section > .content > p {
     position: absolute;
     font-size: 2rem;
