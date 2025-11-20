@@ -23,7 +23,7 @@ body {
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: orange;
+    --nav-bkgd-color: Blue;
     --nav-text-color: black;
     --nav-hover-bkgd-color: lightgray;
     --nav-hover-text-color: black;
