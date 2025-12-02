@@ -21,7 +21,7 @@ body {
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: brown;
+    --nav-bkgd-color: lightgray;
     --nav-text-color: black;
     --nav-hover-bkgd-color: lightgray;
     --nav-hover-text-color: black;
