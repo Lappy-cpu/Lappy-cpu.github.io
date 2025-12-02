@@ -21,7 +21,7 @@ body {
 /* define variables */
 :root {
     --nav-height: 3rem;
-    --nav-bkgd-color: aqua;
+    --nav-bkgd-color: brown;
     --nav-text-color: black;
     --nav-hover-bkgd-color: lightgray;
     --nav-hover-text-color: black;
@@ -167,3 +167,4 @@ nav>ul>li>ul>li:hover a {
     }
 
 }
+
