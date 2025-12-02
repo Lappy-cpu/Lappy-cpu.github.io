@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	
+
 	<!-- meta tags and title -->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,49 +11,53 @@
 	<!-- external and internal CSS -->
 	<link rel="stylesheet" href="styles.css" media="all">
 	<style>
+		img {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			max-width: 100%;
+			height: auto;
+		}
 
-	img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100%;
-	height: auto;		
-}
+		h1,
+		h2,
+		p {
+			text-align: center;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+		}
 
-	h1, h2, p {
-		text-align: center;
-		font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-	}
+		.button {
+			background-color: lightslategray;
+			position: center;
+			border: none;
+			color: white;
+			padding: 15px 32px;
+			text-align: center;
+			text-decoration: none;
+			display: inline-block;
+			font-size: 19px;
+			margin: 10px;
+			cursor: pointer;
+			transition-duration: 0.4s;
+		}
 
-	.button {
-		background-color: lightslategray;
-		position: center;
-  		border: none;			
-  		color: white;
-  		padding: 15px 32px;
-  		text-align: center;
-  		text-decoration: none;
-  		display: inline-block;
-  		font-size: 19px;
-  		margin: 10px;	
-  		cursor: pointer;
-		transition-duration: 0.4s;
-	}
+		.button:hover {
+			box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.6);
+		}
 
-	.button:hover {box-shadow: 0 8px 16px 0 rgba(0,0,0,0.6);}
+		.container {
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+		}
 
-.container {
-  display: flex;
-	flex-direction: row;
-	justify-content: center;
-}
-@media (max-width: 600px) {
-  .container {
-    flex-direction: column;
-  }
-}
+		@media (max-width: 600px) {
+			.container {
+				flex-direction: column;
+			}
+		}
+
 		/* in-file CSS here */
-
 	</style>
 
 	<!-- external and internal JavaScript -->
@@ -62,6 +67,7 @@
 	</script>
 
 </head>
+
 <body>
 	<nav>
 		<a id="navBurger">&#9776;</a>
@@ -90,12 +96,12 @@
 	<h1>Welcome to Fairy Fantasia; The full of magics!</h1>
 	<img src="istockphoto-1561107138-612x612.jpg">
 	<h2>This website is a non-fiction website designed to inspire your creativity and inspire your imagination.</h2>
-    <h2>You can see a lot of contents; books, videos and other stuffs</h2>
+	<h2>You can see a lot of contents; books, videos and other stuffs</h2>
 	<h2>Explore various magics and develop your imagination!</h2>
 	<div class="container">
-	<div><a href="/majorproject/content.html" class="button">Contents</a></div>
-	<div><a href="/majorproject/aboutus.html" class="button">About Us</a></div>
-	<div><a href="/majorproject/contact.html" class="button">Contact</a></div>
+		<div><a href="/majorproject/content.html" class="button">Contents</a></div>
+		<div><a href="/majorproject/aboutus.html" class="button">About Us</a></div>
+		<div><a href="/majorproject/contact.html" class="button">Contact</a></div>
 	</div>
 
 
@@ -103,6 +109,10 @@
 
 <footer>
 	<p>&copy; Fairy Fantasia<br>
+	<p>ID 011811846</p>
+	<p>Photo by <a href="https://www.istockphoto.com/portfolio/Mik122?mediatype=photography">Mik122</a> in <a
+			href="https://www.istockphoto.com/photo/dragon-dramatic-sunset-in-clouds-gm1561107138-527195302?searchscope=image%2Cfilm">iStock</a>
+	</p>
 
 </footer>
 
