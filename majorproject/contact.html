@@ -51,12 +51,31 @@
 	</nav>
 
 	<h1>Need something? Contact Us!</h1>
-	<form action="/majorproject/thanks.html">
-
-
-
-
-	</form>
+	
+<div>
+<form action="/majorproject/thanks.html">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" placeholder="ex. Sophia Song">
+	<label for="email">Email:</label>
+  <input type="email" id="email" name="email" placeholder="ex. sophiasong@website.com">
+	 <label for="title">Preferred form of address:</label>
+  <select id="title" name="title">
+    <option value="ms">Ms.</option>
+    <option value="mr">Mr.</option>
+    <option value="mrs">Mrs.</option>
+     <option value="name">First name</option>
+  </select>
+	<p>Which content you are interest?</p>
+	 <input type="checkbox" id="content1" name="content1" value="Book">
+  <label for="content1"> Book</label>
+  <input type="checkbox" id="content2" name="content2" value="video">
+  <label for="content2"> Video</label>
+  <input type="checkbox" id="content3" name="content3" value="other">
+  <label for="content3"> Other</label>
+ <textarea name="message" style="width:100%; height:200px;" placeholder="Type message here."></textarea>
+  <input type="submit" value="Submit">
+</form> 
+	</div>
 
 </body>
 </html>
