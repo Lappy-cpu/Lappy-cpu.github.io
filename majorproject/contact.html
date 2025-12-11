@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	
+
 	<!-- meta tags and title -->
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,76 +11,82 @@
 	<!-- external and internal CSS -->
 	<link rel="stylesheet" href="styles.css" media="all">
 	<style>
-		
-		h1, footer {
+		h1,
+		footer {
 			text-align: center;
 		}
 
-			div {
-  margin: auto;
-		width: 68%;
-	  max-width: 850px;
-}
+		div {
+			margin: auto;
+			width: 68%;
+			max-width: 850px;
+		}
+
 		form {
-  border-radius: 5px;
-  background-color: gray
-  padding: 20px;
-}
+			border-radius: 5px;
+			background-color: gray padding: 20px;
+		}
 
-input[type=text], select {
-  width: 100%;
-  padding: 12px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-	font-size: 16px
-}
-		input[type=email], select {
-  width: 100%;
-  padding: 12px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box;
-	font-size: 16px
-}
-input[type=text]:focus {
-  border: 3px solid #1A3E4C;
-}
+		input[type=text],
+		select {
+			width: 100%;
+			padding: 12px;
+			margin: 8px 0;
+			display: inline-block;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			box-sizing: border-box;
+			font-size: 16px
+		}
 
-input[type=submit] {
-  width: 100%;
-  background-color: grey
-  color: white;
-  padding: 14px;
-  margin: 8px 0;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-font-size: 15px;
-}
+		input[type=email],
+		select {
+			width: 100%;
+			padding: 12px;
+			margin: 8px 0;
+			display: inline-block;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			box-sizing: border-box;
+			font-size: 16px
+		}
 
-input[type=submit]:hover {
-  background-color: ghostwhite
-}
+		input[type=text]:focus {
+			border: 3px solid #1A3E4C;
+		}
+
+		input[type=submit] {
+			width: 100%;
+			background-color: grey color: white;
+			padding: 14px;
+			margin: 8px 0;
+			border: none;
+			border-radius: 4px;
+			cursor: pointer;
+			font-size: 15px;
+		}
+
+		input[type=submit]:hover {
+			background-color: ghostwhite
+		}
+
 		textarea {
-  padding: 12px;
-	margin: 8px;
-  box-sizing: border-box;
-  border: 2px solid #ccc;
-  border-radius: 4px;
-  font-size: 16px;
-}
+			padding: 12px;
+			margin: 8px;
+			box-sizing: border-box;
+			border: 2px solid #ccc;
+			border-radius: 4px;
+			font-size: 16px;
+		}
+
 		@media (max-width: 600px) {
-div {
-	width: 100%;
-}
+			div {
+				width: 100%;
+			}
+
 			input[type=checkbox] {
 				display: block
-}
+			}
 		}
 
 		/* in-file CSS here */
@@ -92,6 +99,7 @@ div {
 	</script>
 
 </head>
+
 <body>
 
 	<nav>
@@ -119,37 +127,38 @@ div {
 	</nav>
 
 	<h1>Need something? Contact Us!</h1>
-	
-<div>
-<form action="/majorproject/thanks.html">
-  <label for="name">Name:</label>
-  <input type="text" id="name" name="name" placeholder="ex. Sophia Song">
-	<label for="email">Email:</label>
-  <input type="email" id="email" name="email" placeholder="ex. sophiasong@website.com">
-	 <label for="title">Preferred form of address:</label>
-  <select id="title" name="title">
-    <option value="ms">Ms.</option>
-    <option value="mr">Mr.</option>
-    <option value="mrs">Mrs.</option>
-     <option value="name">First name</option>
-  </select>
-	<p>Which content you are interest?</p>
-	 <input type="checkbox" id="content1" name="content1" value="Book">
-  <label for="content1"> Book</label>
-  <input type="checkbox" id="content2" name="content2" value="video">
-  <label for="content2"> Video</label>
-  <input type="checkbox" id="content3" name="content3" value="other">
-  <label for="content3"> Other</label>
- <textarea name="message" style="width:100%; height:200px;" placeholder="Type message here."></textarea>
-  <input type="submit" value="Submit">
-</form> 
+
+	<div>
+		<form action="/majorproject/thanks.html">
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" placeholder="ex. Sophia Song">
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email" placeholder="ex. sophiasong@website.com">
+			<label for="title">Preferred form of address:</label>
+			<select id="title" name="title">
+				<option value="ms">Ms.</option>
+				<option value="mr">Mr.</option>
+				<option value="mrs">Mrs.</option>
+				<option value="name">First name</option>
+			</select>
+			<p>Which content you are interest?</p>
+			<input type="checkbox" id="content1" name="content1" value="Book">
+			<label for="content1"> Book</label>
+			<input type="checkbox" id="content2" name="content2" value="video">
+			<label for="content2"> Video</label>
+			<input type="checkbox" id="content3" name="content3" value="other">
+			<label for="content3"> Other</label>
+			<textarea name="message" style="width:100%; height:200px;" placeholder="Type message here."></textarea>
+			<input type="submit" value="Submit">
+		</form>
 	</div>
 
 </body>
 <footer>
 	<p>&copy; Fairy Fantasia<br>
 	<p>ID 011811846</p>
-	
+
 
 </footer>
+
 </html>
